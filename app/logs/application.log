@@ -1,0 +1,6 @@
+[2024-05-19 04:37:52] Database connection error: php_network_getaddresses: getaddrinfo for localhosst failed: No such host is known. 
+[2024-05-28 15:09:45] Database connection error: Unknown database 'elyora'
+[2024-05-28 15:10:13] Database connection error: Access denied for user 'roost'@'localhost' (using password: NO)
+[2024-05-28 15:10:44] Database connection error: Access denied for user 'root'@'localhost' (using password: YES)
+[2024-05-28 15:11:03] Database connection error: Unknown database 'elyora'
+[2024-05-28 15:12:48] Database connection error: Unknown database 'elyosra'
